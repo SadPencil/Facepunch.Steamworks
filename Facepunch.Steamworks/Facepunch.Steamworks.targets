@@ -6,6 +6,11 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
+		<ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+		<ProduceReferenceAssemblyInOutDir>true</ProduceReferenceAssemblyInOutDir>
+	</PropertyGroup>
+
+	<PropertyGroup>
 		<PackageVersion>2.4.1</PackageVersion>
 		<FileVersion>2.4.1</FileVersion>
 	</PropertyGroup>
